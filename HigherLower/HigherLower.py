@@ -22,7 +22,6 @@ def choosing_data():
         COUNTRY = random_data['country']
         FOLLOWERS = random_data['follower_count']
 
-
 def compare_a():
     global FOLLOWERS_A
     choosing_data()
