@@ -21,7 +21,6 @@ def choosing_data():
         DESCRIPTION = random_data['description']
         COUNTRY = random_data['country']
         FOLLOWERS = random_data['follower_count']
-    print(FOLLOWERS)
 
 
 def compare_a():
